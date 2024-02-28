@@ -8,7 +8,7 @@ O projeto consiste em analisar os requisitos do back-end e documentações da AP
    
 https://docs.google.com/spreadsheets/d/1gptbPvPD66UGrE6hH8Nt6OIagCuC-1XZ/edit?usp=sharing&ouid=101440224175071877839&rtpof=true&sd=true 
 
-3.	Links dos relatórios de bug no Jira:
+2.	Links dos relatórios de bug no Jira:
    
 https://lwsaturnino.atlassian.net/jira/software/c/projects/LS3S/issues/?filter=allissues 
 
