@@ -4,7 +4,7 @@ Aplicar técnicas desenvolvidas no curso de Analista de testes/QA da TripleTen.
 
 **Introdução**
 
-O curso de Analista de testes/QA da TripleTen possui uma plataforma dívida em sprint, aplicando conceitos em simulações de testes, a terceira sprint objetiva testes de API e relatório de bug no Jira.
+A terceira sprint objetiva testes de API e relatório de bug no Jira.
 
 **Resultado**
 
